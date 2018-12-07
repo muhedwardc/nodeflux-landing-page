@@ -1,5 +1,6 @@
 Image source:
 nodeflux.png - http://lustrum.dteti.ugm.ac.id/wp-content/uploads/sites/288/elementor/thumbs/LOGO-NODEFLUX-nvv41mgknwwkoj51ribrgqc082q0076edqmkbz7aio.png
+img.png - https://www.flaticon.com/free-icon/google-drive-image_61035#term=image&page=2&position=37
 the-team.jpg - Photo by Annie Spratt on Unsplash - https://unsplash.com/photos/QckxruozjRg
 activity-1.jpg - Photo by Sebastian Mantel on Unsplash - https://unsplash.com/photos/M1qSY_IuF4c
 activity-2.jpg - Photo by Mimi Thian on Unsplash - https://unsplash.com/photos/lp1AKIUV3yo
